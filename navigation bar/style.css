@@ -1,0 +1,22 @@
+.navbar{
+  background-color: black;
+  border-radius: 13px;
+}
+.navbar ul{
+  overflow: auto;
+}
+.navbar li{
+    margin: 13px 20px;
+  float :left;
+list-style: none;
+/*padding: 3px;*/
+}
+.navbar li a {
+
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+}
+.navbar li a:hover{
+  color: red;
+}
